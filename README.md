@@ -36,10 +36,35 @@ To describe and display unique values
 <img src="Object.PNG">
 
 ## Univariate Analysis on Numerical Variable
-<img src="Univariate.PNG">
+<img src="Univariate 4.PNG">
+<img src="Univariate 1.png">
+<img src="Univariate 2.png">
+<img src="Univariate 3.png">
 
 Combine 2 plots in a single plot(e.g creditscore & age)
 <img src="Density.PNG">
+
+## Univariate Analysis on Categorical Columns
+<img src="Category 1.PNG">
+<img src="Category 2.png">
+<img src="Category 3.PNG">
+
+## Bivariate Analysis
+Display the impact of gender on the exit rate (0=NO, 1=YES)
+<img src="Bivariate 1.PNG">
+<img src="Bivariate 2.PNG">
+<img src="Bivariate 3.png">
+
+## Multivariate Analysis
+Lets check the heatmap for the data with respect to correlation
+<img src="Multivariate 1.PNG">
+<img src="Multivariate 2.png">
+
+
+
+
+
+
 
 
 
