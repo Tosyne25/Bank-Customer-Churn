@@ -29,7 +29,7 @@ To remove columns not needed for the analysis (ensure to save it in a new variab
 
 ## Descriptive Statistics For Numerical Columns
 To display the mean, std, min & max
-<img src="Numerical.PNG">
+<img src="Descriptive.PNG">
 
 ## Descriptive Statistics For Object dtype Columns
 To describe and display unique values
