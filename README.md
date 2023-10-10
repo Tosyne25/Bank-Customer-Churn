@@ -7,5 +7,25 @@ Customer attrition prediction in the banking sector utilizes data analysis and m
 ### Exploratory Analysis:
 This step is important to better understand the dataset
 
-<img src="Explore datasets.PNG">
+<img src="Explore dataset.PNG">
+Here, I explored the first 5 rows and also the number of rows and columns in the dataset.
+
+<img src="Column names.PNG">
+This shows all the column names in the dataset
+
+<img src="Rows.PNG">
+To display the number of rows not null and the data type
+
+<img src="Datatypes.PNG">
+Displays the data type
+
+<img src="Null data.PNG">
+To display the total number of missing values present in the dataset
+
+<img src="Duplicates.PNG">
+To check for duplicated data
+
+<img src="Drop.PNG">
+To remove columns not needed for the analysis (ensure to save it in a new variable name)
+
 
