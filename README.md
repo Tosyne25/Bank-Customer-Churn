@@ -6,3 +6,6 @@ Customer attrition prediction in the banking sector utilizes data analysis and m
 
 ### Exploratory Analysis:
 This step is important to better understand the dataset
+
+<img src="Explore datasets.PNG">
+
