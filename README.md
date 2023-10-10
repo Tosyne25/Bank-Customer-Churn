@@ -2,6 +2,11 @@
 
 ## Introduction
 Customer attrition prediction in the banking sector utilizes data analysis to assess customer actions and detect possible churn. An alternative approach involves tracking the company's Net Promoter Score (NPS) over a period to enable banks to implement proactive strategies for averting customer loss and enhancing customer loyalty.
+
+### Prepare:
+The dataset used for this analysis was downloaded from Kaggle. The dataset comes in a CSV format with thousands of rows. 
+The dataset was imported to Python, cleaned and analyzed.
+
 ### Analyze: Analysis Insights: 
 Import Required Library
 <img src="Required Library.PNG">
@@ -62,7 +67,7 @@ Let's check the heatmap for the data with respect to the correlation
 <img src="Multivariate 2.png">
 
 ## Observation/Conclusion
-* In this dataset, there were 10,000 participants, the male gender was more than the female with 5457 male participants as against 4543 female participants
+* In this dataset, there were 10,000 participants, the male gender was more than the female with 5457 male participants and 4543 female participants
 * France had the highest count of participants with about 5014 participants, 2509 participants from Germany and 2477 participants from Spain
 * About 79.63% (7963) participants are still with the bank and 20.37% (2037) of the participants had exited the bank.
 * About 7099 participants have Creditcards and 5151 active members among the participants.
